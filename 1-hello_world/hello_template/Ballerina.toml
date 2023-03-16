@@ -1,0 +1,6 @@
+[package]
+org = "sagarasa"
+name = "hello_template"
+version = "0.1.0"
+distribution = "2201.3.1"
+template = true
